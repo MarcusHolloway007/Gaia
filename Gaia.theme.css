@@ -1,6 +1,6 @@
 //META{"name":"Gaia","description":"A transparent theme with altered elements.","author":"Gimo","version":"1.5"}*//
 .app{
-	background: url("https://i.imgur.com/OXncnhS.jpg");
+	background: url("https://cdn1.gamepur.com/images/assassins-creed-origins/4k/aco-4k-art-screenshot-01.jpg");
 	background-size: cover;
 }
 .layers, .layer { background: transparent !important; }
